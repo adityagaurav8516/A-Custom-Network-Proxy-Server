@@ -1,0 +1,3 @@
+just run the shell command it checks if the proxy forwards the request properly, the filters work or not and concurrent users wirk or not .
+
+ab -X 127.0.0.1:8888 -c 10 -n 100 http://httpbin.org/get   this command is for testing if it can handle multiple clients
