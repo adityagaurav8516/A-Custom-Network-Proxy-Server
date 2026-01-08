@@ -3,6 +3,7 @@
 
 - The Proxy functions as an intermediary (Forward Proxy) between a client (e.g., `curl` or a web browser) and the internet. It operates at the Application Layer
 
+![alt text](image.png)
 
 
 ## Component Descriptors 
